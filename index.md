@@ -28,5 +28,5 @@ Berikut ini adalah koleksi yang dimiliki
 11.[Resume Webinar](ebook/ResumeWebinar.pdf) - Rafie Budiansyah (2025)
 
 ---
-
+[Halaman 1](webti/halaman1.html)
 *Powered by Guthub Pages*
