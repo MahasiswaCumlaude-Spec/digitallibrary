@@ -25,7 +25,7 @@ Berikut ini adalah koleksi yang dimiliki
 
 10.[Twice-Bought](ebook/Twice-Bought.pdf) - R.M. Ballantyne (1972)
 
-11.[Resume Webinar](ebook/Resume Webinar.pdf) - Rafie Budiansyah (2025)
+11.[Resume Webinar](ebook/ResumeWebinar.pdf) - Rafie Budiansyah (2025)
 
 ---
 
