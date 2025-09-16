@@ -28,8 +28,8 @@ Berikut ini adalah koleksi yang dimiliki
 11.[Resume Webinar](ebook/ResumeWebinar.pdf) - Rafie Budiansyah (2025)
 
 ---
-<a href="webti/halaman1.html"> Halaman 1 <a>
-
+<a href="webti/halaman1.html"> Halaman 1 <a> Ini pake href
+---
 
 [Halaman 1](webti/halaman1.html)
 [Halaman 2](webti/halaman2.html)
