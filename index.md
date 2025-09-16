@@ -29,4 +29,9 @@ Berikut ini adalah koleksi yang dimiliki
 
 ---
 [Halaman 1](webti/halaman1.html)
-*Powered by Guthub Pages*
+[Halaman 2](webti/halaman2.html)
+[Halaman 3](webti/halaman3.html)
+[Halaman 4](webti/halaman4.html)
+
+
+*Powered by Github Pages*
